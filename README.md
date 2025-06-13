@@ -4,7 +4,7 @@
 
 ### 🧠 What I Do
 - 🔧 **Full-Stack Engineering**: React, React Native, Node.js, Spring Boot
-- 🌐 **Backend Systems**: REST, GraphQL, OAuth, RBAC, PostgreSQL, MongoDB
+- 🌐 **Backend Systems**: REST, GraphQL, OAuth, PostgreSQL, MongoDB
 - 🗺️ **Geospatial Intelligence**: ArcGIS integrations and routing optimization
 - 🤖 **AI & ML**: Custom CNNs, YOLOv8, real-time diagnostics, Streamlit dashboards
 - ☁️ **DevOps & Cloud**: AWS, Docker, Kubernetes, CI/CD pipelines
@@ -16,7 +16,7 @@
 - Created an automated agentic system to post trending AI content on LinkedIn weekly
 
 ### 📚 Education
-- M.S. in Computer Science – University of Maryland, Baltimore County (GPA 3.7)
+- M.S. in Computer Science – University of Maryland, Baltimore County
 - B.Tech in Computer Science – JNTU Kakinada
 
 ### 📫 Let's Connect
